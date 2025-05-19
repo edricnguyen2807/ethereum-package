@@ -62,7 +62,7 @@ DEFAULT_REMOTE_SIGNER_IMAGES = {
 MEV_BOOST_PORT = 18550
 
 # Minimum number of validators required for a network to be valid is 64
-MIN_VALIDATORS = 64
+MIN_VALIDATORS = 4
 
 DEFAULT_ADDITIONAL_SERVICES = []
 
